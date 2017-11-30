@@ -1,0 +1,482 @@
+[
+    [
+        "C:\\repo\\Salesforce-Scheduler\\src",
+        {
+            "sourcePath": "C:\\repo\\Salesforce-Scheduler\\src",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1511977843926,
+            "changeTime": 1511977843926,
+            "contentHash": "71cce6ccf48dd43fe909d881504f4aebb3bb4f09",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\repo\\Salesforce-Scheduler\\src\\classes",
+        {
+            "sourcePath": "C:\\repo\\Salesforce-Scheduler\\src\\classes",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1511976899408,
+            "changeTime": 1511976899408,
+            "contentHash": "3af32820ceb6c4c3915b2f49c724f77879147eaa",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\repo\\Salesforce-Scheduler\\src\\classes\\C501_Scheduler.cls",
+        {
+            "sourcePath": "C:\\repo\\Salesforce-Scheduler\\src\\classes\\C501_Scheduler.cls",
+            "isDirectory": false,
+            "size": 348,
+            "modifiedTime": 1511975978496,
+            "changeTime": 1511975978496,
+            "contentHash": "bebb550044b54a627f3efb1d085fe0ca55c0a035",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\repo\\Salesforce-Scheduler\\src\\classes\\C501_Scheduler.cls-meta.xml",
+        {
+            "sourcePath": "C:\\repo\\Salesforce-Scheduler\\src\\classes\\C501_Scheduler.cls-meta.xml",
+            "isDirectory": false,
+            "size": 197,
+            "modifiedTime": 1511974810764,
+            "changeTime": 1511974810764,
+            "contentHash": "9497c0e9debb6198bb849dcecd4a5b47ad0a00f4",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\repo\\Salesforce-Scheduler\\src\\classes\\C501_SchedulerTests.cls",
+        {
+            "sourcePath": "C:\\repo\\Salesforce-Scheduler\\src\\classes\\C501_SchedulerTests.cls",
+            "isDirectory": false,
+            "size": 1358,
+            "modifiedTime": 1511976635194,
+            "changeTime": 1511976635194,
+            "contentHash": "68738dfe672ad575eab49bfa7cb896dd1ecb7f49",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\repo\\Salesforce-Scheduler\\src\\classes\\C501_SchedulerTests.cls-meta.xml",
+        {
+            "sourcePath": "C:\\repo\\Salesforce-Scheduler\\src\\classes\\C501_SchedulerTests.cls-meta.xml",
+            "isDirectory": false,
+            "size": 202,
+            "modifiedTime": 1511974890143,
+            "changeTime": 1511974890143,
+            "contentHash": "4e38ff0ab9a4277800dc2931df77c1ca22282123",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\repo\\Salesforce-Scheduler",
+        {
+            "sourcePath": "C:\\repo\\Salesforce-Scheduler",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1511977732378,
+            "changeTime": 1511977732378,
+            "contentHash": "4903ed27625ee9c0c9f00794057fddbfd23ac9f7",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\repo\\Salesforce-Scheduler\\src\\main\\default\\objects\\ScheduledFlowCampaign__c\\ScheduledFlowCampaign__c.object-meta.xml",
+        {
+            "sourcePath": "C:\\repo\\Salesforce-Scheduler\\src\\main\\default\\objects\\ScheduledFlowCampaign__c\\ScheduledFlowCampaign__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2188,
+            "modifiedTime": 1511977843930,
+            "changeTime": 1511977843930,
+            "contentHash": "f146acf40b177e5a840591703c1d5f885c8b1d4c",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\repo\\Salesforce-Scheduler\\src\\main\\default\\objects\\ScheduledFlowCampaign__c\\fields\\Campaign__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\repo\\Salesforce-Scheduler\\src\\main\\default\\objects\\ScheduledFlowCampaign__c\\fields\\Campaign__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 619,
+            "modifiedTime": 1511977843931,
+            "changeTime": 1511977843931,
+            "contentHash": "5fcf3cbfd616f2c6a4ed519438b8f20a7e63c00f",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\repo\\Salesforce-Scheduler\\src\\main\\default\\objects\\ScheduledFlowCampaign__c\\fields\\FireFlow__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\repo\\Salesforce-Scheduler\\src\\main\\default\\objects\\ScheduledFlowCampaign__c\\fields\\FireFlow__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 322,
+            "modifiedTime": 1511977843933,
+            "changeTime": 1511977843933,
+            "contentHash": "8f937ab30f8becee1d650b7e574814a0f682ecf5",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\repo\\Salesforce-Scheduler\\src\\main\\default\\layouts\\ScheduledFlowCampaign__c-ScheduledFlowCampaign Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\repo\\Salesforce-Scheduler\\src\\main\\default\\layouts\\ScheduledFlowCampaign__c-ScheduledFlowCampaign Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 2069,
+            "modifiedTime": 1511977843938,
+            "changeTime": 1511977843938,
+            "contentHash": "58aadb5415d727b418ab5e772076d34361f81b6e",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\repo\\Salesforce-Scheduler\\src\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "sourcePath": "C:\\repo\\Salesforce-Scheduler\\src\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4405,
+            "modifiedTime": 1511977843944,
+            "changeTime": 1511977843944,
+            "contentHash": "38945ebfedf7c6951765d2279a99bb57d13468a3",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\repo\\Salesforce-Scheduler\\src\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "sourcePath": "C:\\repo\\Salesforce-Scheduler\\src\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4743,
+            "modifiedTime": 1511977843949,
+            "changeTime": 1511977843949,
+            "contentHash": "62acbb05e85e5ab69bdf4727e0409b68fe6d28fe",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\repo\\Salesforce-Scheduler\\src\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "sourcePath": "C:\\repo\\Salesforce-Scheduler\\src\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4405,
+            "modifiedTime": 1511977843957,
+            "changeTime": 1511977843957,
+            "contentHash": "38945ebfedf7c6951765d2279a99bb57d13468a3",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\repo\\Salesforce-Scheduler\\src\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "sourcePath": "C:\\repo\\Salesforce-Scheduler\\src\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 17566,
+            "modifiedTime": 1511977843973,
+            "changeTime": 1511977843973,
+            "contentHash": "34aefc1af32b81ee850e31b6050da914354ef07c",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\repo\\Salesforce-Scheduler\\src\\main\\default\\objects\\ScheduledFlowCampaign__c",
+        {
+            "sourcePath": "C:\\repo\\Salesforce-Scheduler\\src\\main\\default\\objects\\ScheduledFlowCampaign__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1511977843930,
+            "changeTime": 1511977843930,
+            "contentHash": "6896ca3f7d085e3b20b6fa6971604fa358cfb5de",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\repo\\Salesforce-Scheduler\\src\\main\\default\\objects",
+        {
+            "sourcePath": "C:\\repo\\Salesforce-Scheduler\\src\\main\\default\\objects",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1511982736986,
+            "changeTime": 1511982736986,
+            "contentHash": "69390e166570e5e9ba13ae3602feaa0111f2685b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\repo\\Salesforce-Scheduler\\src\\main\\default",
+        {
+            "sourcePath": "C:\\repo\\Salesforce-Scheduler\\src\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1511995229907,
+            "changeTime": 1511995229907,
+            "contentHash": "43a31376b2fee35791b10e78bfe1168993c87934",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\repo\\Salesforce-Scheduler\\src\\main",
+        {
+            "sourcePath": "C:\\repo\\Salesforce-Scheduler\\src\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1511977843926,
+            "changeTime": 1511977843926,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\repo\\Salesforce-Scheduler\\src\\main\\default\\objects\\ScheduledFlowCampaign__c\\fields",
+        {
+            "sourcePath": "C:\\repo\\Salesforce-Scheduler\\src\\main\\default\\objects\\ScheduledFlowCampaign__c\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1511977843932,
+            "changeTime": 1511977843932,
+            "contentHash": "4944f0565d0d7fba915deac39beb922c26b4450a",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\repo\\Salesforce-Scheduler\\src\\main\\default\\layouts",
+        {
+            "sourcePath": "C:\\repo\\Salesforce-Scheduler\\src\\main\\default\\layouts",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1511977843937,
+            "changeTime": 1511977843937,
+            "contentHash": "1576e3a0fb3adce7713307406af0c19abfef04a3",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\repo\\Salesforce-Scheduler\\src\\main\\default\\profiles",
+        {
+            "sourcePath": "C:\\repo\\Salesforce-Scheduler\\src\\main\\default\\profiles",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1511977843972,
+            "changeTime": 1511977843972,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\repo\\Salesforce-Scheduler\\src\\main\\default\\objects\\Campaign\\listViews\\All.listView-meta.xml",
+        {
+            "sourcePath": "C:\\repo\\Salesforce-Scheduler\\src\\main\\default\\objects\\Campaign\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 494,
+            "modifiedTime": 1511982736988,
+            "changeTime": 1511982736988,
+            "contentHash": "964139577fdb2f636ceb9f2f4483f39a34b92713",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\repo\\Salesforce-Scheduler\\src\\main\\default\\objects\\Campaign\\listViews",
+        {
+            "sourcePath": "C:\\repo\\Salesforce-Scheduler\\src\\main\\default\\objects\\Campaign\\listViews",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1511982736987,
+            "changeTime": 1511982736987,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\repo\\Salesforce-Scheduler\\src\\main\\default\\objects\\Campaign",
+        {
+            "sourcePath": "C:\\repo\\Salesforce-Scheduler\\src\\main\\default\\objects\\Campaign",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1511982736986,
+            "changeTime": 1511982736986,
+            "contentHash": "1003ed7ace0a22575202c755ad5f988148ca2df5",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\repo\\Salesforce-Scheduler\\src\\main\\default\\flows\\C501_SchedulerFlow-1.flow-meta.xml",
+        {
+            "sourcePath": "C:\\repo\\Salesforce-Scheduler\\src\\main\\default\\flows\\C501_SchedulerFlow-1.flow-meta.xml",
+            "isDirectory": false,
+            "size": 2928,
+            "modifiedTime": 1511995229884,
+            "changeTime": 1511995229884,
+            "contentHash": "0c40408cedf1673af02ca1e9f4ea1c2b220f9d8f",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\repo\\Salesforce-Scheduler\\src\\main\\default\\flows\\C501_SchedulerProcess-1.flow-meta.xml",
+        {
+            "sourcePath": "C:\\repo\\Salesforce-Scheduler\\src\\main\\default\\flows\\C501_SchedulerProcess-1.flow-meta.xml",
+            "isDirectory": false,
+            "size": 9419,
+            "modifiedTime": 1511995229891,
+            "changeTime": 1511995229891,
+            "contentHash": "04866da52d5cb0b0973585f42c03f3a6f18e095d",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\repo\\Salesforce-Scheduler\\src\\main\\default\\flows\\OnScheduledFlowFireFlow-1.flow-meta.xml",
+        {
+            "sourcePath": "C:\\repo\\Salesforce-Scheduler\\src\\main\\default\\flows\\OnScheduledFlowFireFlow-1.flow-meta.xml",
+            "isDirectory": false,
+            "size": 4447,
+            "modifiedTime": 1511995229897,
+            "changeTime": 1511995229897,
+            "contentHash": "5fcfa978e45d3eb961a390c756cbf840309496c4",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\repo\\Salesforce-Scheduler\\src\\main\\default\\flowDefinitions\\OnScheduledFlowFireFlow.flowDefinition-meta.xml",
+        {
+            "sourcePath": "C:\\repo\\Salesforce-Scheduler\\src\\main\\default\\flowDefinitions\\OnScheduledFlowFireFlow.flowDefinition-meta.xml",
+            "isDirectory": false,
+            "size": 105,
+            "modifiedTime": 1511995229900,
+            "changeTime": 1511995229900,
+            "contentHash": "4102f1024b304c644055ba24c336b5b198707318",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\repo\\Salesforce-Scheduler\\src\\main\\default\\flowDefinitions\\C501_SchedulerProcess.flowDefinition-meta.xml",
+        {
+            "sourcePath": "C:\\repo\\Salesforce-Scheduler\\src\\main\\default\\flowDefinitions\\C501_SchedulerProcess.flowDefinition-meta.xml",
+            "isDirectory": false,
+            "size": 171,
+            "modifiedTime": 1511995229903,
+            "changeTime": 1511995229903,
+            "contentHash": "84016bd12773aae2340e6057aede8139cb16f930",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\repo\\Salesforce-Scheduler\\src\\main\\default\\flowDefinitions\\C501_SchedulerFlow.flowDefinition-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\repo\\Salesforce-Scheduler\\src\\main\\default\\flowDefinitions\\C501_SchedulerFlow.flowDefinition-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 171,
+            "modifiedTime": 1511996353630,
+            "changeTime": 1511996353630,
+            "contentHash": "795cc139f192885d653394326c2a130b7c62654a"
+        }
+    ],
+    [
+        "C:\\repo\\Salesforce-Scheduler\\src\\main\\default\\workflows\\ScheduledFlowCampaign__c.workflow-meta.xml",
+        {
+            "sourcePath": "C:\\repo\\Salesforce-Scheduler\\src\\main\\default\\workflows\\ScheduledFlowCampaign__c.workflow-meta.xml",
+            "isDirectory": false,
+            "size": 99,
+            "modifiedTime": 1511995229909,
+            "changeTime": 1511995229909,
+            "contentHash": "f4f1ce89ee533d2c8ac7b592c2d443e2b63abf28",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\repo\\Salesforce-Scheduler\\src\\main\\default\\flows",
+        {
+            "state": "u",
+            "sourcePath": "C:\\repo\\Salesforce-Scheduler\\src\\main\\default\\flows",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1511996353624,
+            "changeTime": 1511996353624,
+            "contentHash": "80683a79501de5d43fecb05cdbef27db030aeda2"
+        }
+    ],
+    [
+        "C:\\repo\\Salesforce-Scheduler\\src\\main\\default\\flowDefinitions",
+        {
+            "sourcePath": "C:\\repo\\Salesforce-Scheduler\\src\\main\\default\\flowDefinitions",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1511995229905,
+            "changeTime": 1511995229905,
+            "contentHash": "45336f90400ee1d3330c7dc8d04e51fd6b70d3b2",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\repo\\Salesforce-Scheduler\\src\\main\\default\\workflows",
+        {
+            "sourcePath": "C:\\repo\\Salesforce-Scheduler\\src\\main\\default\\workflows",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1511995229908,
+            "changeTime": 1511995229908,
+            "contentHash": "5b5e147dff6da440b100c71dcb5c2faf44292f7a",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\repo\\Salesforce-Scheduler\\src\\main\\default\\flows\\C501_SchedulerFlow-2.flow-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\repo\\Salesforce-Scheduler\\src\\main\\default\\flows\\C501_SchedulerFlow-2.flow-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4367,
+            "modifiedTime": 1511996353626,
+            "changeTime": 1511996353626,
+            "contentHash": "35a10703a588c5091c97cd2b2a44fa1d3d5a3c1a"
+        }
+    ]
+]

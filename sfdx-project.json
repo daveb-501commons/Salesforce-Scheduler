@@ -1,0 +1,11 @@
+{
+    "packageDirectories": [
+      {
+        "path": "src",
+        "default": true
+      }
+    ],
+    "namespace": "C501",
+    "sourceApiVersion": "41.0"
+  }
+  
