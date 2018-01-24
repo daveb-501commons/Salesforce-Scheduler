@@ -29,12 +29,12 @@
     <formulas>
         <name>GetEmailBody</name>
         <dataType>String</dataType>
-        <expression>"Campaign Name: " + {!varCampaign.Name} + " User Id: " + $User.Id</expression>
+        <expression>&quot;Campaign Name: &quot; + {!varCampaign.Name} + &quot; User Id: &quot; + $User.Id</expression>
     </formulas>
     <formulas>
         <name>GetUserEmail</name>
         <dataType>String</dataType>
-        <expression>IF($user.email = "", "daveb@501commons.org", $user.email)</expression>
+        <expression>IF($user.email = &quot;&quot;, &quot;daveb@501commons.org&quot;, $user.email)</expression>
     </formulas>
     <interviewLabel>C501_SchedulerFlow {!$Flow.CurrentDateTime}</interviewLabel>
     <label>C501_SchedulerFlow</label>

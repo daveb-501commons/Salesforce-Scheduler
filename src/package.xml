@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <fullName>Salesforce-Scheduler</fullName>
+    <fullName>C501_Salesforce-Scheduler</fullName>
     <types>
         <members>C501_Scheduler</members>
         <members>C501_SchedulerTests</members>
         <name>ApexClass</name>
+    </types>
+    <types>
+        <members>C501_ScheduledFlow__c.Campaign__c</members>
+        <members>C501_ScheduledFlow__c.FireFlow__c</members>
+        <members>C501_ScheduledFlow__c.Status__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>C501_ScheduledFlow__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>C501_SchedulerFlow-1</members>
+        <members>C501_SchedulerProcess-1</members>
+        <name>Flow</name>
+    </types>
+    <types>
+        <members>C501_ScheduledFlow__c-C501_ScheduledFlow Layout</members>
+        <name>Layout</name>
     </types>
     <version>41.0</version>
 </Package>
