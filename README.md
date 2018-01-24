@@ -3,6 +3,11 @@ Salesforce-Scheduler
 
 Scheduler solution that allows reoccurring scheduling in Salesforce for any object.  Currently implmented for the Campaign object but can be extended.
 
+<a href="https://githubsfdeploy.herokuapp.com?owner=daveb-501commons&repo=daveb-501commons/Salesforce-Scheduler">
+  <img alt="Deploy to Salesforce"
+       src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
+</a>
+
 ## Install Package
 
  * **SFDX Setup**
